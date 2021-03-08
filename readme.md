@@ -1,7 +1,10 @@
 A custom skin for Ragnarok Online
 
 ## Usage
-To apply a skin, place `test001` folder into your client's `data/Skin` folder, then login into the game and select **test001** in the game options.
+To apply a skin:
+* Place `test001` folder into your client's `data/Skin` folder
+* Login into the game 
+* Select **test001** in the game options
 
 ## Known bugs on 2021 clients
 1. In the NPC dialogue window, background color is not applied
