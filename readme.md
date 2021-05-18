@@ -7,11 +7,12 @@ To apply a skin:
 * Select **test001** in the game options
 
 ## Known bugs on 2021 clients
-1. In the NPC dialogue window, background color is not applied
+1. In the NPC dialogue window, background color and menu color is not applied
 2. In the Quest Window, description text background color is not applied
 3. Swap Equipment window background is not applied
 4. Nothing is applied in the character selection window
+5. Nothing is applied in the Rodex window
 
 ## Notes
-* Some elements are in Russian and some are in English. I don't know if I'll ever translate them or not and into what (probably eng)
+* I don't plan translating any buttons as they are all messed up (some are just images, those are translatable with skin, and some are plain button image with text from other sources—those are not)
 * I may eventually come up with the better name for it
