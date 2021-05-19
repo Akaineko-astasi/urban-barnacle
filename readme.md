@@ -6,7 +6,7 @@ To apply a skin:
 * Login into the game 
 * Select **test001** in the game options
 
-## Known bugs on 2021 clients
+## Known bugs on 2020 clients
 1. In the NPC dialogue window, background color and menu color is not applied
 2. In the Quest Window, description text background color is not applied
 3. Swap Equipment window background is not applied
