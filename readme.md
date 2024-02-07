@@ -7,13 +7,12 @@ To apply a skin:
 3. ESC -> Game Settings (2nd top option) -> Select **Dimmed Zen** 
 
 ## Warning 
-This skin is meant for 2020+ clients and it may get updated eventually for newer versions. 
+This skin is meant for 2020+ clients and may get updated eventually for newer versions. 
 
 ## Todo or not todo
 1. Planning to do:
-   + [x] Add a screenshot to Git page 
    + [ ] Add new jobs party icons 
-   + [ ] Replace Kafra tabs with textless symbols? 
+   + [ ] Replace Kafra tabs with textless symbols 
 2. Not Gonna Do:
    *See Notes section*
 3. Not changeable through skin:
@@ -33,5 +32,3 @@ This skin is meant for 2020+ clients and it may get updated eventually for newer
 * I don't plan translating any buttons as they are all messed up (some are just images, those are translatable with skin, and some are plain button image with text from other sources--those are not)
 * I don't plan to support older clients 
 
-## Screenshot 
-![screenshot](demoscreen.jpg)
